@@ -219,9 +219,9 @@ src/
 # 👨‍💻 Developer
 
 # Pawan Mishra
-#Jash Jetly
-#SANJANA BASHYA Gundra
-#Karamveer Singh Qaumi
+# Jash Jetly
+# SANJANA BASHYA Gundra
+# Karamveer Singh Qaumi
 
 Frontend Developer focused on:
 
