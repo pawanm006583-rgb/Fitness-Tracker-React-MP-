@@ -233,6 +233,27 @@ Frontend Developer focused on:
 
 ---
 
+<br/>
+
+<div align="center">
+
+# Live Demo
+
+### Experience AESTHER Intelligence Live
+
+<a href="https://fitness-tracker-react-mp.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Launch_AESTHER-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+🌐 https://fitness-tracker-react-mp.vercel.app/
+
+</div>
+
+---
+
 # ⭐ Support The Project
 
 If you like this project:
